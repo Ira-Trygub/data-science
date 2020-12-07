@@ -1,2 +1,4 @@
 bodyType,brand,color,complectation_dict,description,engineDisplacement,enginePower,equipment_dict,fuelType,image,mileage,modelDate,model_info,model_name,name,numberOfDoors,parsing_unixtime,priceCurrency,productionDate,sell_id,super_gen,vehicleConfiguration,vehicleTransmission,vendor,Владельцы,Владение,ПТС,Привод,Руль,Состояние,Таможня
-LIFTBACK,SKODA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ROADSTER,AC,FAFBFB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ROADSTER,AC,EE1D19,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WAGON_5_DOORS,AMC,EE1D19,,,,,,,,,,,,,,,,,,,,,,,,,,,,

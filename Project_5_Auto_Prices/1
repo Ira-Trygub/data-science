@@ -1,0 +1,6 @@
+['bodyType', 'brand', 'color', 'complectation_dict', 'description',
+       'engineDisplacement', 'enginePower', 'equipment_dict', 'fuelType',
+       'mileage', 'modelDate', 'model_name', 'name', 'numberOfDoors',
+       'productionDate', 'vehicleConfiguration', 'vehicleTransmission',
+       'Владельцы', 'Владение', 'ПТС', 'Привод', 'Руль', 'Состояние',
+       'Таможня', 'sample', 'price']

@@ -1,6 +1,0 @@
-['bodyType', 'brand', 'color', 'complectation_dict', 'description',
-       'engineDisplacement', 'enginePower', 'equipment_dict', 'fuelType',
-       'mileage', 'modelDate', 'model_name', 'name', 'numberOfDoors',
-       'productionDate', 'vehicleConfiguration', 'vehicleTransmission',
-       'owners', 'Possession', 'PTS', 'drive_unit', 'rudder',
-       'state', 'choky', 'sample', 'price']
